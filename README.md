@@ -8,4 +8,4 @@ Repository này là kênh chia sẻ với cộng đồng về những gì chúng
 
 Bạn có thể tham khảo những nội dung này ở đây:
 
-* [TroliBee wiki] (https://github.com/basicxteam/trolibee-community/wiki)
+* TroliBee wiki (https://github.com/basicxteam/trolibee-community/wiki)
